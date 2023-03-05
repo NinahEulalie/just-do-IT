@@ -1,0 +1,89 @@
+.login{
+    display: flex;
+    justify-content: center;
+}
+
+.card1{
+    position: absolute;
+    width: 369px;
+    height: 484px;
+    /* left: 561px; */
+    top: 92px;
+    background: #4CA48F;
+    box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 22px
+}
+
+img{
+    width: 40%;
+    height: 30%;
+    border-radius: 200px;
+}
+
+.card2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 370.08px;
+    height: 288.93px;
+    /* left: 560.92px; */
+    top: 365.84px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 9px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 26px 25px 31px 32px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#matricule{
+    position: absolute;
+    width: 286px;
+    height: 47px;
+    left: 20px;
+    top: 25px;
+    background: #D9D9D9;
+    border-radius: 25px;
+}
+
+.case{
+    top: 50px;
+}
+.connection{
+    position: absolute;
+    width: 202px;
+    height: 66px;
+    left: 659px;
+    top: 698px;
+    background: #4CA48F;
+    box-shadow: 2px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 23px;
+}
+
+.inscription{
+    position: absolute;
+    width: 172px;
+    height: 67px;
+    left: 676px;
+    top: 810px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #4CA48F;
+     position: absolute;
+    width: 61px;
+    height: 0px;
+    left: 732px;
+    top: 832px;
+    border: 0.5px solid #4CA48F;
+}
+
+.ligne{
+    position: absolute;
+    width: 61px;
+    height: 0px;
+    left: 732px;
+    top: 832px;
+    border: 0.5px solid #4CA48F;
+}
